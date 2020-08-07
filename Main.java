@@ -6,7 +6,9 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
     int avgMenopauseAge = 51;
+    //source is menopause.org//
     int avgMenstrualProductPerCycle = 20;
+    //source is healthline.com//
     int avgMenstrualProductsPerYear = avgMenstrualProductPerCycle * 12;
     
     
